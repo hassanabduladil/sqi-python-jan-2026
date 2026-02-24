@@ -1,0 +1,54 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+
+# Virtual environment
+# Recommended to place .venv in the project root
+.venv/
+venv/
+env/
+
+
+# Distribution / packaging
+.Python
+build/
+dist/
+develop-eggs/
+eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.manifest
+
+
+# mypy
+.mypy_cache/
+
+
+# pytest cache
+.pytest_cache/
+
+
+# Sphinx documentation
+docs/_build/
+
+
+# IDE-specific files (e.g., PyCharm, VS Code)
+.idea/
+.vscode/
+*.swp
+
+
+# Editor backup files
+*~
+
+
+# Sensitive files (add specific names)
+# e.g., credentials.json, .env, config.yaml
+
